@@ -1,11 +1,38 @@
 ## Hi there! 👋
+```yaml
+My name is Berry! Read more about me here.
+```
 
-My name is Berry and I'm a BSc 'Psychology with a year in computer science' student!
-- 😄 Pronouns: Any / all
+```yaml
+name: Berry
+pronouns: Any / all
+education: BSc Psychology with Year in Computer Science
 
-- 🔭 I’m currently working on learning more about machine learning for my undergraduate dissertation. If you have any favourite resources, send them my way!
-- 📫 How to reach me: Discord! My username is: berrybanana
-- ⚡ Fun fact: I do ice dance for fun!
+🔭 what_I'm_up_to:
+    I’m currently working on learning more about machine learning for my undergraduate dissertation.
+    If you have any favourite resources, send them my way!
+
+📫 how_to_reach_me:
+    Discord! My username is 'berrybanana'
+
+⚡ fun_fact:
+    I do ice dance for fun!
+
+languages_tools_and_apps:
+  [
+    "Python",
+    "SQL",
+    "Flask",
+    "Bootstrap",
+    "Pycharm",
+    "Jetbrains",
+    "SQLite",
+ ]
+
+hobbies: ["Art", "Ice Dance", "Programming", "Acting", "Writing Plays", "TTRPGs"]
+goals: ["Get my head around machine learning by Christmas..."]
+
+```
 
 <!--
 **Berrybanana23/Berrybanana23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
