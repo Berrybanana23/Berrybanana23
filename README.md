@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! 👋
+
+My name is Berry and I'm a BSc 'Psychology with a year in computer science' student!
+- 😄 Pronouns: Any / all
+
+- 🔭 I’m currently working on learning more about machine learning for my undergraduate dissertation. If you have any favourite resources, send them my way!
+- 📫 How to reach me: Discord! My username is: berrybanana
+- ⚡ Fun fact: I do ice dance for fun!
 
 <!--
 **Berrybanana23/Berrybanana23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
