@@ -9,8 +9,9 @@ pronouns: Any / all
 education: BSc Psychology with Year in Computer Science
 
 🔭 what_I'm_up_to:
-    I’m currently working on learning more about machine learning for my undergraduate dissertation.
-    If you have any favourite resources, send them my way!
+    I’m currently uploading the work I did during my year in computer science, and trying to improve it!
+    I'm also learning data science coding techniques as part of my data science module, and attempting
+    to learn how to use GitHub properly.
 
 📫 how_to_reach_me:
     Discord! My username is 'berrybanana'
