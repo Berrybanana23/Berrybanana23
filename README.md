@@ -13,25 +13,17 @@ education: BSc 'Psychology with Year in Computer Science'
     I'm also learning data science coding techniques as part of my data science module, and attempting
     to learn how to use GitHub properly.
 
-📫 how_to_reach_me:
-    Discord! My username is 'berrybanana'
-
 ⚡ fun_fact:
-    I do ice dance for fun!
+    I do ice dance and create traditional art for fun!
 
 languages_tools_and_apps:
   [
-    "Python",
+    "Python (NumPy, pandas, Matplotlib, Flask, Bootstrap)",
     "SQL",
-    "Flask",
-    "Bootstrap",
-    "Pycharm",
-    "Jetbrains",
-    "SQLite",
  ]
 
 hobbies: ["Art", "Ice Dance", "Programming", "Acting", "Writing Plays", "TTRPGs"]
-goals: ["Get my head around machine learning by Christmas..."]
+goals: ["Finish my data science coursework!"]
 
 ```
 
