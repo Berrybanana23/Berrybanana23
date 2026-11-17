@@ -1,12 +1,12 @@
 ## Hi there! 👋
 ```yaml
-My name is Berry! Read more about me here.
+My name is Izzy! Read more about me here.
 ```
 
 ```yaml
-name: Berry
+name: Izzy
 pronouns: Any / all
-education: BSc Psychology with Year in Computer Science
+education: BSc 'Psychology with Year in Computer Science'
 
 🔭 what_I'm_up_to:
     I’m currently uploading the work I did during my year in computer science, and trying to improve it!
